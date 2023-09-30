@@ -1,0 +1,15 @@
+.page-header{
+    background-color: aqua;
+ }
+ .footer{
+    color: #a7a8b4;;
+ }
+.bg-dark {
+    background-color: #15233C !important;
+}
+.pt-5 {
+    padding-top: 3rem !important;
+}
+.mt-5 {
+    margin-top: 3rem !important;
+}
