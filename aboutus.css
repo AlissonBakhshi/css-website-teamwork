@@ -6,3 +6,13 @@
     background-color: blueviolet;
     height: 500px;
 }
+.team-item {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 45px rgba(0, 0, 0, 0.07);}
+    
+.rounded {
+    border-radius: 10px !important}
+
+ .team-item img {
+        transition: 2s;}
