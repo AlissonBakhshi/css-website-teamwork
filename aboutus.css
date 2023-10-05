@@ -2,6 +2,36 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap');
+
+
+
+
+
+
+.bg-dark {
+  background-color: #15233C !important;
+}
+.text-white-50 {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+.py-2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+.px-0 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.d-none {
+  display: none !important;
+}
+
+
+
+
+
+
 *{
     /* font-family: 'Marhey', cursive; */
     font-family: 'Baloo Bhaijaan 2', cursive;
@@ -49,7 +79,7 @@ background-size: cover;
     body {
       margin: 0;
       /* background-image: linear-gradient(to right, #ECE9E6 , #FFFFFF); */
-      background-color: #f1f1e9 !important
+      background-color: #f0f0ba !important
       ;
     } 
 
