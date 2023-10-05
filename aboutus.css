@@ -354,9 +354,10 @@ a {
   overflow: hidden;
   min-height: 400px;
   height: 100%;
+  /* border: 1px solid #8C3333!important */
 }
 .card:hover {
-  box-shadow: 8px 12px 31px -10px #ab98ab;
+  box-shadow: 8px 12px 31px -10px #8C3333;
 }
 .card-img-wrapper {
   display: flex;
@@ -385,7 +386,7 @@ a {
   left: 0;
   right: 0;
   height: 50%;
-  background-color: #F2EE9D
+  background-color: #557A46
   ;
   transition: 1.5s ease;
 }
