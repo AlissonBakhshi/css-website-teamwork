@@ -278,4 +278,8 @@ a {
 
 
 
-
+  .page-header{
+    background: url(https://media.istockphoto.com/id/1430331655/photo/hand-typing-on-smartphone-social-media-manager-working-in-city-office-building-and-contact-us.jpg?s=612x612&w=0&k=20&c=OjPw4Qi6bO5uudiIZd0UfBkOIM3ZmBBfUlYzLweDLb8=)
+    center center no-repeat;
+    background-size: cover;
+    }
