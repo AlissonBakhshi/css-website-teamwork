@@ -520,3 +520,65 @@ body {
   background-image: linear-gradient(to right, #ECE9E6 , #FFFFFF);
 }
   /* cards */
+
+
+
+
+
+  /* carousel start */
+
+  /* carousel css */
+.box{
+  width: 60px;
+  height: 60px;
+  border: black 3px dotted;
+  margin: 5px;
+  border-radius: 15px;
+  position: relative;
+  animation: pulse 2s infinite both;
+}
+@keyframes pulse {
+  0%{
+      transform: scaleX(1);
+  }
+  50%{
+      transform: scale3d(1.05,1.05,1.05);
+  }
+  100%{
+    transform: scaleX(1);  
+  }
+}
+.one{
+  left: 40%;
+}
+.two{
+  left: -10%;
+  top: 50px;
+  scale: 0.8;
+}
+.three{
+  left: 55%;
+  top: 70px;
+  scale: 0.7;
+}
+.carousel-img{
+  width: 100px;
+  height: 100px;
+}
+.box> img{
+  width: 55px;
+  padding: 10px 5px;
+  border-radius: 10px;
+}
+.button{
+  border-radius: 5px;
+  width: 30px;
+  height: 40px;
+background-color: black;
+}
+h1 {
+  font-family: 'Playfair Display SC', serif;
+}
+
+
+/* carousel end */
